@@ -1,6 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on a Node-API project for RESTFUL web services...
 ### Lets Connect
+- 💬 Ask me about Android...
 -⚡ Fun fact: i love adventure
 
 <!--
